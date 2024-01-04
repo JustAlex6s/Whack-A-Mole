@@ -1,0 +1,95 @@
+.circle{
+    width:200px;
+    height:200px;
+    border: 1px solid black;
+    border-radius: 100%;
+}
+#rectangle{
+    width:200px;
+    height:100px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    text-align:center;
+}
+#score{
+    text-align: center;
+}
+#allCircle{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    width: 1000px;
+
+}
+.redColor{
+    background-color: red;
+}
+
+/*circle*/
+
+  #circle1 {
+    top: 10px;
+    left: 10px;
+    
+  }
+  #circle2 {
+    top: 10px;
+    left: 70px;
+
+  }
+  #circle3 {
+    top: 10px;
+    left: 130px;
+    
+  }
+  #circle4 {
+    top: 70px;
+    left: 10px;
+
+  }
+  #circle5 {
+    top: 70px;
+    left: 70px;
+ 
+  }
+  #circle6 {
+    top: 70px;
+    left: 130px;
+   
+  }
+  #circle7 {
+    top: 130px;
+    left: 10px;
+
+  }
+  #circle8 {
+    top: 130px;
+    left: 70px;
+    
+  }
+  #circle9 {
+    top: 130px;
+    left: 130px;
+  
+  }
+  #circle10 {
+    top: 130px;
+    left: 130px;
+
+  }
+  #circle11 {
+    top: 130px;
+    left: 130px;
+    
+  }
